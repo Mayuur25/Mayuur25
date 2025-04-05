@@ -7,13 +7,16 @@
       Data Engineer
   
 - 🌱 I’m currently learning:
-  Advanced Data Engineering
+
+      Advanced Data Engineering
   
 - 👯 I’m looking to collaborate on"
-  Data Engineering Projects
+
+      Data Engineering Projects
   
 - 💬 Ask me about:
-  Data, Travelling
+
+      Data, Travelling
   
 - 📫 How to reach me: ...
 
