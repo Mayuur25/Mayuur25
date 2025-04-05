@@ -38,11 +38,11 @@
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/your-username/" target="_blank">
+<a href="[https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/mayur-bhoyar/)" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@your-channel" target="_blank">
+<a href="[https://www.youtube.com/@your-channel](https://www.youtube.com/@datawithmayur)" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" height="30" width="30"/>
 </a>
 
