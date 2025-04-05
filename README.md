@@ -4,14 +4,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working as:
+  Data Engineer
+  
+- 🌱 I’m currently learning:
+  Advanced Data Engineering
+  
+- 👯 I’m looking to collaborate on"
+  Data Engineering Projects
+  
+- 💬 Ask me about:
+  Data, Travelling
+  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- ⚡ Fun fact:
+  I love Travelling
 >
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
