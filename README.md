@@ -39,5 +39,8 @@
   <a href="https://www.youtube.com/@datawithmayur" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-000?style=flat&logo=youtube&logoColor=red" alt="YouTube" height="30"/>
   </a>
+  <a href="https://mayuur25.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=white" alt="Website" height="30"/>
+  </a>
 </p>
 
