@@ -41,7 +41,7 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/mayur-bhoyar/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   <a href="https://www.youtube.com/@datawithmayur" target="_blank">
