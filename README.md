@@ -7,14 +7,6 @@
 - 🌱 I’m currently learning:
 
   Advanced Data Engineering
-  
-- 👯 I’m looking to collaborate on:
-
-  Data Engineering Projects
-  
-- 💬 Ask me about:
-
-  Data, Travelling
 
 - ⚡ Fun fact:
   
