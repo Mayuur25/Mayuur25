@@ -38,5 +38,7 @@
 
 ### Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](linkedin.com/in/mayur-bhoyar)
+[![LinkedIn](https://img.shields.io/badge/-000?&logo=linkedin&logoColor=white&style=flat-square)](linkedin.com/in/mayur-bhoyar)
+[![YouTube](https://img.shields.io/badge/-000?&logo=youtube&logoColor=red&style=flat-square)](https://www.youtube.com/@your-channel)
+
 [![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=youtube&logoColor=FF0000)]([https://www.youtube.com/@your-channel](https://www.youtube.com/channel/UCESXZF9cS_hm_vHO87zMyqQ))
