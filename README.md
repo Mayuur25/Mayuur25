@@ -15,8 +15,6 @@
 - 💬 Ask me about:
 
   Data, Travelling
-  
-- 📫 How to reach me: ...
 
 - ⚡ Fun fact:
   
@@ -37,4 +35,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=Snowflake&logoColor=F90)
+
+### Socials
 
