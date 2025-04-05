@@ -8,7 +8,7 @@
 
   Advanced Data Engineering
   
-- 👯 I’m looking to collaborate on"
+- 👯 I’m looking to collaborate on:
 
   Data Engineering Projects
   
