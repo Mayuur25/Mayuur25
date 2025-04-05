@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working as:
-- 
-  Data Engineer
+ 
+      Data Engineer
   
 - 🌱 I’m currently learning:
   Advanced Data Engineering
