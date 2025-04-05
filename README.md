@@ -38,11 +38,14 @@
 
 ### Socials
 
-<a href="[https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/mayur-bhoyar/)" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
-</a>
-&nbsp;
-<a href="[https://www.youtube.com/@your-channel](https://www.youtube.com/@datawithmayur)" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" height="30" width="30"/>
-</a>
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://www.youtube.com/@datawithmayur" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-000?style=flat&logo=youtube&logoColor=red" alt="YouTube" height="30"/>
+  </a>
+</p>
 
